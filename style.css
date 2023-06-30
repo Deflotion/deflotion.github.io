@@ -1,9 +1,15 @@
-body {
-  min-height: 2000px;
+.warna{
+  background-color: #34cece;
 }
 .jumbotron {
-  padding-top: 2rem;
+  padding-top: 8rem;
   background-color: #e2edff;
 }
 
+section{
+  padding-top: 7rem;
+}
 
+#projects{
+  background-color: #e2edff;
+}
